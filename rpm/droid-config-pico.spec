@@ -7,7 +7,7 @@
 %define vendor_pretty HTC
 %define device_pretty Explorer
 
-%define pixel_ratio 0.56
+%define pixel_ratio 0.7
 
 # Community HW adaptations need this
 %define community_adaptation 1
